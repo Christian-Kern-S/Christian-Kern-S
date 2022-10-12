@@ -1,4 +1,4 @@
-## Olá, tudo bem? Prazer, sou o Christian!!
+## Olá, tudo bem? Prazer, sou o Christian !!
 
   <ul>
   <li>🔍 Hoje estou a procura de um vaga para Front-End Developer</li>
