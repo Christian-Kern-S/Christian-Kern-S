@@ -17,7 +17,7 @@
   <img align="center" alt="Christian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Christian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Christian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Christian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/910241894750101568/1029565128259141663/download20221002015401.png?width=676&height=676">
+  <img align="right" alt="Christian-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/910241894750101568/1029572419087761469/ezgif-2-de1769faaa.gif?width=589&height=589">
 </div>
   
   ##
