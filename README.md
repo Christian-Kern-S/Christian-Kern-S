@@ -2,7 +2,7 @@
 
   <ul>
   <li>🔍 Hoje estou a procura de um vaga para Front-End Developer</li>
-  <li>💻 Estudandando Angular, Java</li>
+  <li>💻 Estudando Angular, Java</li>
   <li> 📅 21 anos </li>
   <li> 🏠 Três Corações - MG </li>
   </ul>
