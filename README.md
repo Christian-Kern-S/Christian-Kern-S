@@ -1,8 +1,7 @@
 ## Olá, tudo bem? Prazer, sou o Christian !!
 
   <ul>
-  <li>🔍 Hoje estou a procura de um vaga para Front-End ou Full-Stack Developer</li>
-  <li>💻 Estudando Angular, Java</li>
+  <li>💻 Estudando C++</li>
   <li> 📅 22 anos </li>
   <li> 🏠 Três Corações - MG </li>
   </ul>
