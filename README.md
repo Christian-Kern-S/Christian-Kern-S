@@ -2,7 +2,7 @@
 
   <ul>
   <li>💻 Estudando C++</li>
-  <li> 📅 22 anos </li>
+  <li> 📅 23 anos </li>
   <li> 🏠 Três Corações - MG </li>
   </ul>
 <div align="center">
