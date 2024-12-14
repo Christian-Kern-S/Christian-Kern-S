@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Prazer, sou o Christian !!
 
   <ul>
-  <li>💻 Estudando C++</li>
+  <li>💻 Formado em Ciência da Computação</li>
   <li> 📅 23 anos </li>
   <li> 🏠 Três Corações - MG </li>
   </ul>
