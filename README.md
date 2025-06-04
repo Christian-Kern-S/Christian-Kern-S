@@ -2,8 +2,8 @@
 
   <ul>
   <li>💻 Formado em Ciência da Computação</li>
-  <li> 📅 23 anos </li>
-  <li> 🏠 Três Corações - MG </li>
+  <li> 📅 24 anos </li>
+  <li> 🏠 Belo Horizonte - MG </li>
   </ul>
 <div align="center">
   <a href="https://github.com/Christian-Kern-S">
